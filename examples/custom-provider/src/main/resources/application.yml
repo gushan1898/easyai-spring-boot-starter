@@ -1,0 +1,9 @@
+easyai:
+  enabled: true
+  provider: custom
+  
+  custom:
+    api-key: your-custom-api-key
+    model: custom-model-v1
+    base-url: https://api.custom-ai-service.com/v1
+    timeout: 30000 
